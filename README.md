@@ -1,6 +1,6 @@
 # StellarRipple
 
-<img src="/mr.png" alt="Profil Resmi" width="200"/>
+<img src="/mrtstellar.png" alt="Profil Resmi" width="200"/>
 
 ## About Me
 
@@ -8,11 +8,11 @@ My name is Murat Keskin. I graduated from Kyiv Polytechnic University in 2015 wi
 
 ## Description
 
-TokenNexus is a powerful token ecosystem built on the Scroll blockchain using Soroban smart contracts. It goes beyond basic token features to offer a complete financial system with strong security. Key features include secure token transfers, burning, approvals, and a flexible vesting system with cliffs and claims. It also offers customizable staking with adjustable rewards and lock periods. For extra safety, TokenNexus allows account freezing and strict authorization checks. Admins can manage settings and activate emergency functions when needed. Developed in Rust with Soroban SDK, it ensures efficient storage and full event tracking. TokenNexus is perfect for token projects, DeFi apps, and institutions needing a secure, flexible token solution with advanced distribution and reward tools.
+StellarRipple is a powerful token ecosystem built on the Scroll blockchain using Soroban smart contracts. It goes beyond basic token features to offer a complete financial system with strong security. Key features include secure token transfers, burning, approvals, and a flexible vesting system with cliffs and claims. It also offers customizable staking with adjustable rewards and lock periods. For extra safety, StellarRipple allows account freezing and strict authorization checks. Admins can manage settings and activate emergency functions when needed. Developed in Rust with Soroban SDK, it ensures efficient storage and full event tracking. StellarRipple is perfect for token projects, DeFi apps, and institutions needing a secure, flexible token solution with advanced distribution and reward tools.
 
 ## Vision
 
-At TokenNexus, we aim to build the future of token infrastructure on the Stellar ecosystem. Our vision is to empower users and institutions with secure, transparent, and flexible tools that make complex finance simple. By combining enterprise-level security with easy-to-use features, we encourage long-term participation and help grow the Stellar network. TokenNexus bridges traditional and crypto finance, giving more people access to powerful financial tools. We strive to set a new industry standard by uniting the best practices of blockchain into one strong, smart token system for the future.
+At StellarRipple, we aim to build the future of token infrastructure on the Stellar ecosystem. Our vision is to empower users and institutions with secure, transparent, and flexible tools that make complex finance simple. By combining enterprise-level security with easy-to-use features, we encourage long-term participation and help grow the Stellar network. StellarRipple bridges traditional and crypto finance, giving more people access to powerful financial tools. We strive to set a new industry standard by uniting the best practices of blockchain into one strong, smart token system for the future.
 
 ## Project RoadMap / Future Plans
 
@@ -20,7 +20,7 @@ At TokenNexus, we aim to build the future of token infrastructure on the Stellar
 
 Define key modules: Token Operations, Vesting, Staking, Admin Controls.
 Design data structures: user balances, vesting schedules, staking pools, frozen accounts.
-Outline events: transfers, staking updates, vesting claims, account freezes.
+Outline events: transfers, staking updates, vesting claims, account freezes,borrowing,lending.
 
 2. Core Smart Contract Development (Rust + Soroban SDK)
 
@@ -74,7 +74,7 @@ Stellar Account with testnet funds
 - `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh`
 
  #### Clone the repository
- - `git clone https://github.com/murat48/stellar-token-contract.git`
+ - `git clone https://github.com/murat48/BarlasPulseFi.git`
 
  #### Add Wasm target for Rust
 - `rustup target add wasm32-unknown-unknown`
