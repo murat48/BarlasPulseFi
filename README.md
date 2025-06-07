@@ -1,4 +1,4 @@
-# TokenNexus
+# StellarRipple
 
 <img src="/mr.png" alt="Profil Resmi" width="200"/>
 
