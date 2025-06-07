@@ -27,6 +27,7 @@ Outline events: transfers, staking updates, vesting claims, account freezes,borr
 Implement token functions: `transfer`, `burn`, `approve`, `freeze_account`, `unfreeze_account`.
 Build vesting system: `create_vesting`, `claim_vested_tokens`, `check_vesting_schedule`.
 Develop staking mechanism: `stake_tokens`, `unstake_tokens`, `calculate_rewards`.
+Borrowing Lending : `borrowing` , `lending`.
 Add admin features: `update_parameters`, `trigger_emergency`, `authorization checks`.
 
 3. Smart Contract Testing & Security Review
