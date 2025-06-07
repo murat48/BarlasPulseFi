@@ -1,6 +1,6 @@
 # StellarRipple
 
-<img src="/mrtks.jpg" alt="Profil Resmi" width="400"/>
+<img src="/mrtks.jpg" alt="Profil Resmi" width="600"/>
 
 ## About Me
 
